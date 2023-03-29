@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Adevinta-Segment-Appboy"
-  s.version          = "4.2.0"
+  s.version          = "4.2.1"
   s.summary          = "AdevintaSpain's fork for Braze Integration for Segment's analytics-ios library."
 
   s.description      = <<-DESC
